@@ -1,1 +1,0 @@
-client_id='4Tqp6GN2jiX07Aj4kdwryw', client_secret='ymsWksZHFucX9C5QcITUtq8P78fSvA', user_agent='RedWebScraping'
