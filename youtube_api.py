@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 import pickle
 import os
 import pandas as pd
-from google_key import * 
+from google_key import * # where we say our key
 
 class ScrapingApi: 
     def __init__(self, key): 
